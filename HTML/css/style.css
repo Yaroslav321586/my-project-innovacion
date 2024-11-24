@@ -1,0 +1,361 @@
+body {
+    background: #F6F6FA;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.cabeza {
+    background: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* Main-content */
+.main-content {
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+
+/* Sidebar */
+.sidebar {
+    background: #e0ebfe;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+
+.sidebar-content {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+/* Contacts */
+.contacts-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.contacts-type {
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 8px;
+}
+
+.contacts-link {
+    color: #2979ff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+.contacts-item {
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+
+.contacts-container {
+    margin-bottom: 40px;
+}
+
+/* Skills container */
+.skills-container {
+    margin-bottom: 40px;
+}
+
+.skills-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.skills-list {
+    padding-left: 16px;
+}
+
+.skills-list-item {
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/* Soft contaier */
+.soft-container {
+    margin-bottom: 40px;
+}
+
+.soft-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.soft-list {
+    padding-left: 16px;
+}
+
+.soft-list-item {
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/* Main content */
+.nombre-empresa {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.empresa {
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.explico-empresa {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px
+}
+
+.bloque1 {
+    margin-bottom: 40px;
+}
+
+/* Bloque2 */
+.bloque2texto {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.linkbloque {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.listobloque2 {
+    padding-left: 16px;
+}
+
+.bloquelink {
+    color: #005FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+.my-projects-item-tech {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.bloque2 {
+    margin-bottom: 40px;
+}
+
+/* Work Experience */
+.work-experience-title {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+/* Company1 */
+.work-experience-company1 {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.company-name {
+    color: #6D9BF5;
+}
+
+.work-experience-time1 {
+    color: #A8A8A8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+
+.ceo {
+    color: #005FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+
+.ceom {
+    color: #A8A8A8;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+
+.work-experience-line {
+    color: #000;
+}
+
+.work-experience-text1 {
+    padding-left: 16px;
+}
+
+.work-experience-text1-list {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.work-experience-container {
+    margin-bottom: 12px;
+}
+
+/* Education*/
+.education-title {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.education-company {
+    color: #6D9BF5;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.education-work {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.work-experience-block {
+    margin-bottom: 40px;
+}   
+
+        .men1 {
+        color: #fff;
+            display: block;
+            height: 50px;
+            padding: 0 30px;
+            text-transform: uppercase;
+            text-decoration: none;
+            line-height: 50px;
+        }
+           
+        
+        .men2 {
+            margin: 0;
+                padding: 0;
+                list-style: none;
+                height: 50px; 
+                
+            }
+          ul li a:hover {
+           background: #ecf1d4;
+          }    
+
+                                       
+  ul li a {
+      color:#005FFF;
+      display: block;
+      height: 50px;
+      padding: 0 30px;
+      text-transform: uppercase;
+      text-decoration: none;
+      line-height: 50px;
+  }
+
+  .men3 {
+      color: #000;
+      font-size: 28px;
+      font-weight: 900;
+      line-height: 55px;
+      margin-top: 0;
+      margin-bottom: 12px;
+      
+  }
+                  .men21 {
+                    color: #000;
+                        font-size: 28px;
+                        font-weight: 900;
+                        line-height: 55px;
+                        margin-top: 0;
+                        margin-bottom: 12px;
+                  }                      
+                                                                                 
+
+                  .domo1 {color: #A8A8A8;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;}
+
+      
+                                   
